@@ -1,66 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\",
+  "WorkspaceRootPath": "C:\\Users\\Edgardo Solano\\Desktop\\Programacion Avanzada\\Practica3_PrograAvanzada\\Practica3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\practica3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|solutionrelative:practica3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\practica3\\views\\shared\\_layoutexterno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|solutionrelative:practica3\\views\\shared\\_layoutexterno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\practica3\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|solutionrelative:practica3\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|c:\\universidad\\practica3_prograavanzada\\practica3\\practica3\\content\\icofont.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|solutionrelative:practica3\\content\\icofont.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|c:\\universidad\\practica3_prograavanzada\\practica3\\practica3\\content\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|solutionrelative:practica3\\content\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|c:\\universidad\\practica3_prograavanzada\\practica3\\practica3\\content\\slick.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|solutionrelative:practica3\\content\\slick.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|c:\\universidad\\practica3_prograavanzada\\practica3\\practica3\\content\\slick-theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|solutionrelative:practica3\\content\\slick-theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|c:\\universidad\\practica3_prograavanzada\\practica3\\practica3\\views\\home\\consulta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|solutionrelative:practica3\\views\\home\\consulta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\practica3\\views\\home\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|solutionrelative:practica3\\views\\home\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\practica3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|solutionrelative:practica3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\practica3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|c:\\users\\edgardo solano\\desktop\\programacion avanzada\\practica3_prograavanzada\\practica3\\practica3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|solutionrelative:practica3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\practica3\\scripts\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|solutionrelative:practica3\\scripts\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\practica3\\scripts\\jquery.easing.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|solutionrelative:practica3\\scripts\\jquery.easing.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\practica3\\scripts\\jquery.counterup.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|solutionrelative:practica3\\scripts\\jquery.counterup.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\practica3\\scripts\\bootstrap.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|solutionrelative:practica3\\scripts\\bootstrap.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,195 +14,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "icofont.min.css",
-              "DocumentMoniker": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Content\\icofont.min.css",
-              "RelativeDocumentMoniker": "Practica3\\Content\\icofont.min.css",
-              "ToolTip": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Content\\icofont.min.css",
-              "RelativeToolTip": "Practica3\\Content\\icofont.min.css",
-              "ViewState": "AgIAAI8BAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-08-09T05:16:43.468Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "bootstrap.min.css",
-              "DocumentMoniker": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Content\\bootstrap.min.css",
-              "RelativeDocumentMoniker": "Practica3\\Content\\bootstrap.min.css",
-              "ToolTip": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Content\\bootstrap.min.css",
-              "RelativeToolTip": "Practica3\\Content\\bootstrap.min.css",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-08-09T05:15:31.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Content\\style.css",
-              "RelativeDocumentMoniker": "Practica3\\Content\\style.css",
-              "ToolTip": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Content\\style.css",
-              "RelativeToolTip": "Practica3\\Content\\style.css",
-              "ViewState": "AgIAAFABAAAAAAAAAAAmwFkBAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-08-09T04:56:16.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Consulta.cshtml",
-              "DocumentMoniker": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Views\\Home\\Consulta.cshtml",
-              "RelativeDocumentMoniker": "Practica3\\Views\\Home\\Consulta.cshtml",
-              "ToolTip": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Views\\Home\\Consulta.cshtml",
-              "RelativeToolTip": "Practica3\\Views\\Home\\Consulta.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-09T04:02:13.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Registro.cshtml",
-              "DocumentMoniker": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Views\\Home\\Registro.cshtml",
-              "RelativeDocumentMoniker": "Practica3\\Views\\Home\\Registro.cshtml",
-              "ToolTip": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Views\\Home\\Registro.cshtml",
-              "RelativeToolTip": "Practica3\\Views\\Home\\Registro.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-09T04:01:43.615Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_LayoutExterno.cshtml",
-              "DocumentMoniker": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Views\\Shared\\_LayoutExterno.cshtml",
-              "RelativeDocumentMoniker": "Practica3\\Views\\Shared\\_LayoutExterno.cshtml",
-              "ToolTip": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Views\\Shared\\_LayoutExterno.cshtml",
-              "RelativeToolTip": "Practica3\\Views\\Shared\\_LayoutExterno.cshtml",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEcAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-09T03:58:51.037Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Practica3\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Practica3\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-09T03:57:17.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "slick-theme.css",
-              "DocumentMoniker": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Content\\slick-theme.css",
-              "RelativeDocumentMoniker": "Practica3\\Content\\slick-theme.css",
-              "ToolTip": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Content\\slick-theme.css",
-              "RelativeToolTip": "Practica3\\Content\\slick-theme.css",
-              "ViewState": "AgIAAMkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-08-09T05:17:05.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "slick.css",
-              "DocumentMoniker": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Content\\slick.css",
-              "RelativeDocumentMoniker": "Practica3\\Content\\slick.css",
-              "ToolTip": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Content\\slick.css",
-              "RelativeToolTip": "Practica3\\Content\\slick.css",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-08-09T05:17:11.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Practica3\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Practica3\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-09T04:36:30.117Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Edgardo Solano\\Desktop\\Programacion Avanzada\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Practica3\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Edgardo Solano\\Desktop\\Programacion Avanzada\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Practica3\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-09T03:59:57.103Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "jquery.js",
-              "DocumentMoniker": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Scripts\\jquery.js",
-              "RelativeDocumentMoniker": "Practica3\\Scripts\\jquery.js",
-              "ToolTip": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Scripts\\jquery.js",
-              "RelativeToolTip": "Practica3\\Scripts\\jquery.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-08-09T03:54:29.722Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "jquery.easing.js",
-              "DocumentMoniker": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Scripts\\jquery.easing.js",
-              "RelativeDocumentMoniker": "Practica3\\Scripts\\jquery.easing.js",
-              "ToolTip": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Scripts\\jquery.easing.js",
-              "RelativeToolTip": "Practica3\\Scripts\\jquery.easing.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-08-09T03:54:29.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "jquery.counterup.min.js",
-              "DocumentMoniker": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Scripts\\jquery.counterup.min.js",
-              "RelativeDocumentMoniker": "Practica3\\Scripts\\jquery.counterup.min.js",
-              "ToolTip": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Scripts\\jquery.counterup.min.js",
-              "RelativeToolTip": "Practica3\\Scripts\\jquery.counterup.min.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-08-09T03:54:29.413Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "bootstrap.min.js",
-              "DocumentMoniker": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Scripts\\bootstrap.min.js",
-              "RelativeDocumentMoniker": "Practica3\\Scripts\\bootstrap.min.js",
-              "ToolTip": "C:\\Universidad\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Scripts\\bootstrap.min.js",
-              "RelativeToolTip": "Practica3\\Scripts\\bootstrap.min.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-08-09T03:54:19.372Z"
+              "WhenOpened": "2026-08-09T17:01:22.423Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,15 +1,145 @@
-﻿@{
+﻿@model IEnumerable<Practica3.Models.ConsultaModel>
+@using System.Linq
+
+@{
+    ViewBag.Title = "Consulta";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
 <section class="appoinment section">
+
     <div class="container">
+
         <div class="row">
+
             <div class="col-lg-12">
-                <div class="appoinment-wrap mt-5 m5-lg-0 pl-lg-5">
-                    <h2 class="mb-2 title-color">Consulta</h2>
+
+                <div class="appoinment-wrap mt-5 mb-5">
+
+                    <div class="text-center mb-4">
+                        <h2 class="title-color">
+                            Consulta
+                        </h2>
+
+                        <p>
+                            Listado de compras registradas
+                        </p>
+                    </div>
+
+                    <div class="table-responsive">
+
+                        <table class="table table-bordered table-striped table-hover">
+
+                            <thead class="thead-dark">
+
+                                <tr>
+
+                                    <th class="text-center">
+                                        Código Compra
+                                    </th>
+
+                                    <th>
+                                        Descripción
+                                    </th>
+
+                                    <th class="text-right">
+                                        Precio
+                                    </th>
+
+                                    <th class="text-right">
+                                        Saldo
+                                    </th>
+
+                                    <th class="text-center">
+                                        Estado
+                                    </th>
+
+                                </tr>
+
+                            </thead>
+
+                            <tbody>
+
+                                @if (Model != null && Model.Any())
+                                {
+
+                                    foreach (var item in Model)
+                                    {
+
+                                        <tr>
+
+                                            <td class="text-center">
+                                                @item.IdCompra
+                                            </td>
+
+                                            <td>
+                                                @item.Descripcion
+                                            </td>
+
+                                            <td class="text-right">
+                                                ₡ @item.Precio.ToString("N2")
+                                            </td>
+
+                                            <td class="text-right">
+                                                ₡ @item.Saldo.ToString("N2")
+                                            </td>
+
+                                            <td class="text-center">
+
+                                                @if (item.Estado == "Pendiente")
+                                                {
+                                                    <span class="badge badge-warning">
+                                                        Pendiente
+                                                    </span>
+                                                }
+                                                else if (item.Estado == "Cancelado")
+                                                {
+                                                    <span class="badge badge-success">
+                                                        Cancelado
+                                                    </span>
+                                                }
+                                                else
+                                                {
+                                                    <span class="badge badge-secondary">
+                                                        @item.Estado
+                                                    </span>
+                                                }
+
+                                            </td>
+
+                                        </tr>
+
+                                    }
+
+                                }
+                                else
+                                {
+
+                                    <tr>
+
+                                        <td colspan="5"
+                                            class="text-center">
+
+                                            No existen compras registradas.
+
+                                        </td>
+
+                                    </tr>
+
+                                }
+
+                            </tbody>
+
+                        </table>
+
+                    </div>
+
                 </div>
+
             </div>
+
         </div>
+
     </div>
+
 </section>
