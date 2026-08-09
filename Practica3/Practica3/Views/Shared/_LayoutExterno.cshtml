@@ -1,0 +1,118 @@
+﻿<!DOCTYPE html>
+<html lang="zxx">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="Orbitor,business,company,agency,modern,bootstrap4,tech,software">
+    <meta name="author" content="themefisher.com">
+
+    <title>QuickShop</title>
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico" />
+
+    <!-- bootstrap.min css -->
+    <link rel="stylesheet" href="~/Content/bootstrap.min.css">
+    <!-- Icon Font Css -->
+    <link rel="stylesheet" href="~/Content/icofont.min.css">
+    <!-- Slick Slider  CSS -->
+    <link rel="stylesheet" href="~/Content/slick.css">
+    <link rel="stylesheet" href="~/Content/slick-theme.css">
+
+    <!-- Main Stylesheet -->
+    <link rel="stylesheet" href="~/Content/style.css">
+
+</head>
+
+<body id="top">
+
+    <header>
+        <nav class="navbar navbar-expand-lg navigation" id="navbar">
+            <div class="container">
+                <a class="navbar-brand" href="index.html">
+                    <img src="~/Content/Images/logo.jpeg" alt="" class="img-fluid">
+                </a>
+
+                <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarmain" aria-controls="navbarmain" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="icofont-navigation-menu"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarmain">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item active">
+                            @Html.ActionLink("Inicio", "Index", "Home", null, new { @class = "nav-link" })
+                        </li>
+                        <li class="nav-item">
+                            @Html.ActionLink("Registro", "Registro", "Home", null, new { @class = "nav-link" })
+                        </li>
+                        <li class="nav-item">
+                            @Html.ActionLink("Consulta", "Consulta", "Home", null, new { @class = "nav-link" })
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <div class="container text-center py-3">
+            <h4>¡Bienvenido a QuickShop!</h4>
+        </div>
+    </header>
+
+    <section class="banner">
+        <div>
+            @RenderBody()
+        </div>
+    </section>
+
+    <!-- footer Start -->
+    <footer class="footer section gray-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 mr-auto col-sm-6">
+                    <div class="widget mb-5 mb-lg-0">
+                        <div class="logo mb-4">
+                            <img src="~/Content/Images/logo.jpeg" alt="" class="img-fluid">
+                        </div>
+                        <p>Gracias por preferirnos.</p>
+
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="footer-btm py-4 mt-5">
+                <div class="row align-items-center justify-content-between">
+                    <div class="col-lg-6">
+                        <div class="copyright">
+                            &copy; Copyright Reserved to <span class="text-color">Novena</span> by <a href="https://themefisher.com/" target="_blank">Themefisher</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-4">
+                        <a class="backtop js-scroll-trigger" href="#top">
+                            <i class="icofont-long-arrow-up"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!--
+    Essential Scripts
+    =====================================-->
+    <!-- Main jQuery -->
+    <script src="~/Scripts/jquery.js"></script>
+    <!-- Bootstrap 4.3.2 -->
+    <script src="~/Scripts/popper.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <!-- Slick Slider -->
+    <script src="~/Scripts/slick.min.js"></script>
+    <!-- Counterup -->
+    <script src="~/Scripts/jquery.waypoints.min.js"></script>
+
+    <script src="~/Scripts/shuffle.min.js"></script>
+    <script src="~/Scripts/jquery.counterup.min.js"></script>
+
+</body>
+</html>
