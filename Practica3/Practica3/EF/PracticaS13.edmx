@@ -37,6 +37,14 @@
           </ReferentialConstraint>
         </Association>
         <Function Name="SP_ConsultarProductos" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+        <Function Name="SP_ConsultarComprasPendientes" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+        <Function Name="SP_ConsultarSaldo" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="Id_Compra" Type="bigint" Mode="In" />
+        </Function>
+        <Function Name="SP_RegistrarAbono" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="Id_Compra" Type="bigint" Mode="In" />
+          <Parameter Name="Monto" Type="decimal" Precision="18" Scale="2" Mode="In" />
+        </Function>
         <EntityContainer Name="PracticaS13ModelStoreContainer">
           <EntitySet Name="Abonos" EntityType="Self.Abonos" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="Principal" EntityType="Self.Principal" Schema="dbo" store:Type="Tables" />
@@ -91,6 +99,14 @@
             <End Role="Abonos" EntitySet="Abonos" />
           </AssociationSet>
           <FunctionImport Name="SP_ConsultarProductos" ReturnType="Collection(PracticaS13Model.SP_ConsultarProductos_Result)" />
+          <FunctionImport Name="SP_ConsultarComprasPendientes" ReturnType="Collection(PracticaS13Model.SP_ConsultarComprasPendientes_Result)" />
+          <FunctionImport Name="SP_ConsultarSaldo" ReturnType="Collection(PracticaS13Model.SP_ConsultarSaldo_Result)">
+            <Parameter Name="Id_Compra" Mode="In" Type="Int64" />
+          </FunctionImport>
+          <FunctionImport Name="SP_RegistrarAbono" ReturnType="Collection(PracticaS13Model.SP_RegistrarAbono_Result)">
+            <Parameter Name="Id_Compra" Mode="In" Type="Int64" />
+            <Parameter Name="Monto" Mode="In" Type="Decimal" />
+          </FunctionImport>
         </EntityContainer>
         <ComplexType Name="SP_ConsultarProductos_Result">
           <Property Type="Int64" Name="Id_Compra" Nullable="false" />
@@ -98,6 +114,21 @@
           <Property Type="Decimal" Name="Precio" Nullable="false" Precision="18" Scale="5" />
           <Property Type="Decimal" Name="Saldo" Nullable="false" Precision="18" Scale="5" />
           <Property Type="String" Name="Estado" Nullable="false" MaxLength="100" />
+        </ComplexType>
+        <ComplexType Name="SP_ConsultarComprasPendientes_Result">
+          <Property Type="Int64" Name="Id_Compra" Nullable="false" />
+          <Property Type="String" Name="Descripcion" Nullable="false" MaxLength="500" />
+          <Property Type="Decimal" Name="Saldo" Nullable="false" Precision="18" Scale="5" />
+        </ComplexType>
+        <ComplexType Name="SP_ConsultarSaldo_Result">
+          <Property Type="Int64" Name="Id_Compra" Nullable="false" />
+          <Property Type="Decimal" Name="Saldo" Nullable="false" Precision="18" Scale="5" />
+          <Property Type="String" Name="Estado" Nullable="false" MaxLength="100" />
+        </ComplexType>
+        <ComplexType Name="SP_RegistrarAbono_Result">
+          <Property Type="Int32" Name="Resultado" Nullable="true" />
+          <Property Type="String" Name="Mensaje" Nullable="true" MaxLength="200" />
+          <Property Type="Decimal" Name="SaldoNuevo" Nullable="true" Precision="18" Scale="5" />
         </ComplexType>
       </Schema>
     </edmx:ConceptualModels>
@@ -134,6 +165,33 @@
                 <ScalarProperty Name="Precio" ColumnName="Precio" />
                 <ScalarProperty Name="Saldo" ColumnName="Saldo" />
                 <ScalarProperty Name="Estado" ColumnName="Estado" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="SP_ConsultarComprasPendientes" FunctionName="PracticaS13Model.Store.SP_ConsultarComprasPendientes">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="PracticaS13Model.SP_ConsultarComprasPendientes_Result">
+                <ScalarProperty Name="Id_Compra" ColumnName="Id_Compra" />
+                <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+                <ScalarProperty Name="Saldo" ColumnName="Saldo" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="SP_ConsultarSaldo" FunctionName="PracticaS13Model.Store.SP_ConsultarSaldo">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="PracticaS13Model.SP_ConsultarSaldo_Result">
+                <ScalarProperty Name="Id_Compra" ColumnName="Id_Compra" />
+                <ScalarProperty Name="Saldo" ColumnName="Saldo" />
+                <ScalarProperty Name="Estado" ColumnName="Estado" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="SP_RegistrarAbono" FunctionName="PracticaS13Model.Store.SP_RegistrarAbono">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="PracticaS13Model.SP_RegistrarAbono_Result">
+                <ScalarProperty Name="Resultado" ColumnName="Resultado" />
+                <ScalarProperty Name="Mensaje" ColumnName="Mensaje" />
+                <ScalarProperty Name="SaldoNuevo" ColumnName="SaldoNuevo" />
               </ComplexTypeMapping>
             </ResultMapping>
           </FunctionImportMapping>
