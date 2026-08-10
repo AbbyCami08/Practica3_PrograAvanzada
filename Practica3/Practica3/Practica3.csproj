@@ -151,7 +151,16 @@
     <Compile Include="EF\Principal.cs">
       <DependentUpon>PracticaS13.tt</DependentUpon>
     </Compile>
+    <Compile Include="EF\SP_ConsultarComprasPendientes_Result.cs">
+      <DependentUpon>PracticaS13.tt</DependentUpon>
+    </Compile>
     <Compile Include="EF\SP_ConsultarProductos_Result.cs">
+      <DependentUpon>PracticaS13.tt</DependentUpon>
+    </Compile>
+    <Compile Include="EF\SP_ConsultarSaldo_Result.cs">
+      <DependentUpon>PracticaS13.tt</DependentUpon>
+    </Compile>
+    <Compile Include="EF\SP_RegistrarAbono_Result.cs">
       <DependentUpon>PracticaS13.tt</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">

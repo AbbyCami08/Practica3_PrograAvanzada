@@ -34,5 +34,32 @@ namespace Practica3.EF
         {
             return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<SP_ConsultarProductos_Result>("SP_ConsultarProductos");
         }
+
+        public virtual ObjectResult<SP_ConsultarComprasPendientes_Result> SP_ConsultarComprasPendientes()
+        {
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<SP_ConsultarComprasPendientes_Result>("SP_ConsultarComprasPendientes");
+        }
+
+        public virtual ObjectResult<SP_ConsultarSaldo_Result> SP_ConsultarSaldo(Nullable<long> id_Compra)
+        {
+            var id_CompraParameter = id_Compra.HasValue ?
+                new ObjectParameter("Id_Compra", id_Compra) :
+                new ObjectParameter("Id_Compra", typeof(long));
+
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<SP_ConsultarSaldo_Result>("SP_ConsultarSaldo", id_CompraParameter);
+        }
+
+        public virtual ObjectResult<SP_RegistrarAbono_Result> SP_RegistrarAbono(Nullable<long> id_Compra, Nullable<decimal> monto)
+        {
+            var id_CompraParameter = id_Compra.HasValue ?
+                new ObjectParameter("Id_Compra", id_Compra) :
+                new ObjectParameter("Id_Compra", typeof(long));
+
+            var montoParameter = monto.HasValue ?
+                new ObjectParameter("Monto", monto) :
+                new ObjectParameter("Monto", typeof(decimal));
+
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<SP_RegistrarAbono_Result>("SP_RegistrarAbono", id_CompraParameter, montoParameter);
+        }
     }
 }
