@@ -1,10 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Edgardo Solano\\Desktop\\Programacion Avanzada\\Practica3_PrograAvanzada\\Practica3\\",
+  "WorkspaceRootPath": "D:\\Ufide\\Programacion Avanzada\\Semana 13\\Practica3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|c:\\users\\edgardo solano\\desktop\\programacion avanzada\\practica3_prograavanzada\\practica3\\practica3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|D:\\Ufide\\Programacion Avanzada\\Semana 13\\Practica3\\practica3\\views\\home\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|solutionrelative:practica3\\views\\home\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|D:\\Ufide\\Programacion Avanzada\\Semana 13\\Practica3\\practica3\\ef\\practicas13.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|solutionrelative:practica3\\ef\\practicas13.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|d:\\ufide\\programacion avanzada\\semana 13\\practica3\\practica3\\views\\shared\\_layoutexterno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|solutionrelative:practica3\\views\\shared\\_layoutexterno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|D:\\Ufide\\Programacion Avanzada\\Semana 13\\Practica3\\practica3\\views\\home\\consulta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|solutionrelative:practica3\\views\\home\\consulta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|D:\\Ufide\\Programacion Avanzada\\Semana 13\\Practica3\\practica3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|solutionrelative:practica3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|D:\\Ufide\\Programacion Avanzada\\Semana 13\\Practica3\\practica3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|solutionrelative:practica3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|D:\\Ufide\\Programacion Avanzada\\Semana 13\\Practica3\\practica3\\services\\principalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|solutionrelative:practica3\\services\\principalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|D:\\Ufide\\Programacion Avanzada\\Semana 13\\Practica3\\practica3\\models\\registromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|solutionrelative:practica3\\models\\registromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,28 +42,113 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LayoutExterno.cshtml",
+              "DocumentMoniker": "D:\\Ufide\\Programacion Avanzada\\Semana 13\\Practica3\\Practica3\\Views\\Shared\\_LayoutExterno.cshtml",
+              "RelativeDocumentMoniker": "Practica3\\Views\\Shared\\_LayoutExterno.cshtml",
+              "ToolTip": "D:\\Ufide\\Programacion Avanzada\\Semana 13\\Practica3\\Practica3\\Views\\Shared\\_LayoutExterno.cshtml",
+              "RelativeToolTip": "Practica3\\Views\\Shared\\_LayoutExterno.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAUwGgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-10T23:45:50.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Consulta.cshtml",
+              "DocumentMoniker": "D:\\Ufide\\Programacion Avanzada\\Semana 13\\Practica3\\Practica3\\Views\\Home\\Consulta.cshtml",
+              "RelativeDocumentMoniker": "Practica3\\Views\\Home\\Consulta.cshtml",
+              "ToolTip": "D:\\Ufide\\Programacion Avanzada\\Semana 13\\Practica3\\Practica3\\Views\\Home\\Consulta.cshtml",
+              "RelativeToolTip": "Practica3\\Views\\Home\\Consulta.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-10T23:33:26.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Ufide\\Programacion Avanzada\\Semana 13\\Practica3\\Practica3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practica3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Ufide\\Programacion Avanzada\\Semana 13\\Practica3\\Practica3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Practica3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-10T23:33:25.298Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Edgardo Solano\\Desktop\\Programacion Avanzada\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Practica3\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Edgardo Solano\\Desktop\\Programacion Avanzada\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Practica3\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-09T17:01:22.423Z",
+              "Title": "Registro.cshtml",
+              "DocumentMoniker": "D:\\Ufide\\Programacion Avanzada\\Semana 13\\Practica3\\Practica3\\Views\\Home\\Registro.cshtml",
+              "RelativeDocumentMoniker": "Practica3\\Views\\Home\\Registro.cshtml",
+              "ToolTip": "D:\\Ufide\\Programacion Avanzada\\Semana 13\\Practica3\\Practica3\\Views\\Home\\Registro.cshtml",
+              "RelativeToolTip": "Practica3\\Views\\Home\\Registro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-10T23:32:23.868Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrincipalService.cs",
+              "DocumentMoniker": "D:\\Ufide\\Programacion Avanzada\\Semana 13\\Practica3\\Practica3\\Services\\PrincipalService.cs",
+              "RelativeDocumentMoniker": "Practica3\\Services\\PrincipalService.cs",
+              "ToolTip": "D:\\Ufide\\Programacion Avanzada\\Semana 13\\Practica3\\Practica3\\Services\\PrincipalService.cs",
+              "RelativeToolTip": "Practica3\\Services\\PrincipalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T23:31:05.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistroModel.cs",
+              "DocumentMoniker": "D:\\Ufide\\Programacion Avanzada\\Semana 13\\Practica3\\Practica3\\Models\\RegistroModel.cs",
+              "RelativeDocumentMoniker": "Practica3\\Models\\RegistroModel.cs",
+              "ToolTip": "D:\\Ufide\\Programacion Avanzada\\Semana 13\\Practica3\\Practica3\\Models\\RegistroModel.cs",
+              "RelativeToolTip": "Practica3\\Models\\RegistroModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T23:30:04.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PracticaS13.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Ufide\\Programacion Avanzada\\Semana 13\\Practica3\\Practica3\\EF\\PracticaS13.edmx",
+              "RelativeDocumentMoniker": "Practica3\\EF\\PracticaS13.edmx",
+              "ToolTip": "D:\\Ufide\\Programacion Avanzada\\Semana 13\\Practica3\\Practica3\\EF\\PracticaS13.edmx [Diagram1]",
+              "RelativeToolTip": "Practica3\\EF\\PracticaS13.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-08-10T23:21:08.963Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Ufide\\Programacion Avanzada\\Semana 13\\Practica3\\Practica3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Practica3\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Ufide\\Programacion Avanzada\\Semana 13\\Practica3\\Practica3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Practica3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwCkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T17:01:22.423Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }

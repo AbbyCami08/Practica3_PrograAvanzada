@@ -1,12 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Edgardo Solano\\Desktop\\Programacion Avanzada\\Practica3_PrograAvanzada\\Practica3\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|c:\\users\\edgardo solano\\desktop\\programacion avanzada\\practica3_prograavanzada\\practica3\\practica3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A560FB78-28F3-48E5-9E52-83181EA29A3D}|Practica3\\Practica3.csproj|solutionrelative:practica3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "D:\\Ufide\\Programacion Avanzada\\Semana 13\\Practica3\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,20 +17,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Edgardo Solano\\Desktop\\Programacion Avanzada\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Practica3\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Edgardo Solano\\Desktop\\Programacion Avanzada\\Practica3_PrograAvanzada\\Practica3\\Practica3\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Practica3\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-09T17:01:22.423Z",
-              "EditorCaption": ""
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }

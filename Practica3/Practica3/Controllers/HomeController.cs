@@ -1,4 +1,5 @@
-﻿using Practica3.Services;
+﻿using Practica3.Models;
+using Practica3.Services;
 using System.Web.Mvc;
 
 namespace Practica3.Controllers
@@ -19,7 +20,33 @@ namespace Practica3.Controllers
 
         public ActionResult Registro()
         {
-            return View();
+            var model = new RegistroModel
+            {
+                ComprasPendientes = _principalService.ConsultarComprasPendientes()
+            };
+            return View(model);
+        }
+
+        [HttpGet]
+        public JsonResult ObtenerSaldo(long idCompra)
+        {
+            var resultado = _principalService.ConsultarSaldo(idCompra);
+            return Json(new { saldo = resultado?.Saldo }, JsonRequestBehavior.AllowGet);
+        }
+
+        [HttpPost]
+        public ActionResult Registro(long idCompra, decimal abono)
+        {
+            var resultado = _principalService.RegistrarAbono(idCompra, abono);
+
+            if (resultado.Resultado != 1)
+            {
+                ModelState.AddModelError("", resultado.Mensaje);
+                var model = new RegistroModel { ComprasPendientes = _principalService.ConsultarComprasPendientes() };
+                return View(model);
+            }
+
+            return RedirectToAction("Consulta");
         }
 
         public ActionResult Consulta()

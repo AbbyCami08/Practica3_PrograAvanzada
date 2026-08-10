@@ -10,23 +10,11 @@
 namespace Practica3.EF
 {
     using System;
-    using System.Collections.Generic;
     
-    public partial class Principal
+    public partial class SP_ConsultarSaldo_Result
     {
-        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
-        public Principal()
-        {
-            this.Abonos = new HashSet<Abonos>();
-        }
-    
         public long Id_Compra { get; set; }
-        public decimal Precio { get; set; }
         public decimal Saldo { get; set; }
-        public string Descripcion { get; set; }
         public string Estado { get; set; }
-    
-        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Abonos> Abonos { get; set; }
     }
 }
