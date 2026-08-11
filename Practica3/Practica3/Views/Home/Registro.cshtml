@@ -1,4 +1,7 @@
-﻿@{
+﻿@model Practica3.Models.RegistroModel
+
+@{
+    ViewBag.Title = "Registro";
     Layout = "~/Views/Shared/_LayoutExterno.cshtml";
 }
 
@@ -13,8 +16,71 @@
             <div class="col-lg-8">
                 <div class="appoinment-wrap mt-5 mt-lg-0 pl-lg-5">
                     <h2 class="mb-2 title-color">Registro</h2>
+
+                    @if (!ViewData.ModelState.IsValid)
+                    {
+                        <div class="alert alert-danger">
+                            @Html.ValidationSummary(false)
+                        </div>
+                    }
+
+                    @using (Html.BeginForm("Registro", "Home", FormMethod.Post, new { id = "frmRegistro" }))
+                    {
+                        <div class="mb-3">
+                            <label>Compra</label>
+                            @Html.DropDownList("idCompra",
+                                new SelectList(Model.ComprasPendientes, "IdCompra", "Descripcion"),
+                                "Seleccione...", new { @class = "form-control", id = "ddlCompra" })
+                        </div>
+
+                        <div class="mb-3">
+                            <label>Saldo Anterior</label>
+                            <input type="text" id="saldoAnterior" class="form-control" readonly />
+                        </div>
+
+                        <div class="mb-3">
+                            <label>Abono</label>
+                            @Html.TextBox("abono", null, new { @class = "form-control", id = "txtAbono", required = "required" })
+                        </div>
+
+                        <button type="submit" class="btn btn-primary mt-2">Abonar</button>
+                    }
                 </div>
             </div>
         </div>
     </div>
 </section>
+
+@section Scripts {
+    <script>
+        $('#ddlCompra').change(function () {
+            var idCompra = $(this).val();
+            if (!idCompra) { $('#saldoAnterior').val(''); return; }
+
+            $.ajax({
+                url: '@Url.Action("ObtenerSaldo", "Home")',
+                type: 'GET',
+                data: { idCompra: idCompra },
+                success: function (data) {
+                    $('#saldoAnterior').val(data.saldo);
+                }
+            });
+        });
+
+        $('#frmRegistro').submit(function (e) {
+            var saldo = parseFloat($('#saldoAnterior').val());
+            var abono = parseFloat($('#txtAbono').val());
+
+            if (isNaN(abono) || abono <= 0) {
+                alert('El abono es requerido y debe ser mayor a cero.');
+                e.preventDefault();
+                return false;
+            }
+            if (abono > saldo) {
+                alert('El abono no puede ser mayor al saldo anterior.');
+                e.preventDefault();
+                return false;
+            }
+        });
+    </script>
+}

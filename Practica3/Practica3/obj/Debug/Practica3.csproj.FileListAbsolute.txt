@@ -1,176 +1,90 @@
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\Practica3.dll.config
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\Practica3.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\Practica3.pdb
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\csc.exe
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\csc.exe.config
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\csc.rsp
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\csi.exe
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\csi.exe.config
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\csi.rsp
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\Microsoft.Managed.Core.targets
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\Microsoft.Win32.Primitives.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.AppContext.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Collections.Immutable.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Console.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Globalization.Calendars.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.IO.Compression.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.IO.Compression.ZipFile.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.IO.FileSystem.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Net.Http.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Net.Sockets.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Reflection.Metadata.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Security.Cryptography.Encoding.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Security.Cryptography.Primitives.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Threading.Tasks.Extensions.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.ValueTuple.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Xml.ReaderWriter.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Xml.XmlDocument.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Xml.XPath.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Xml.XPath.XDocument.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\vbc.exe
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\vbc.exe.config
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\vbc.rsp
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\VBCSCompiler.exe
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\VBCSCompiler.exe.config
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\Antlr3.Runtime.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\Microsoft.Web.Infrastructure.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\Newtonsoft.Json.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\System.Web.Helpers.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\System.Web.Mvc.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\System.Web.Optimization.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\System.Web.Razor.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\System.Web.WebPages.Deployment.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\System.Web.WebPages.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\System.Web.WebPages.Razor.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\WebGrease.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\System.Web.Helpers.xml
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\System.Web.Mvc.xml
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\System.Web.Optimization.xml
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\System.Web.Razor.xml
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\System.Web.WebPages.xml
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\System.Web.WebPages.Deployment.xml
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\System.Web.WebPages.Razor.xml
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\Newtonsoft.Json.xml
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\Antlr3.Runtime.pdb
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\es\System.Web.Helpers.resources.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\es\System.Web.Mvc.resources.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\es\System.Web.Optimization.resources.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\es\System.Web.Razor.resources.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\es\System.Web.WebPages.resources.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\es\System.Web.WebPages.Deployment.resources.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\obj\Debug\Practica3.csproj.AssemblyReference.cache
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\obj\Debug\Practica3.csproj.CoreCompileInputs.cache
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\obj\Debug\Practica3.csproj.Up2Date
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\obj\Debug\Practica3.dll
-C:\Universidad\Practica3_PrograAvanzada\Practica3\Practica3\obj\Debug\Practica3.pdb
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\Practica3.dll.config
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\Practica3.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\Practica3.pdb
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\csc.exe
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\csc.exe.config
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\csc.rsp
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\csi.exe
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\csi.exe.config
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\csi.rsp
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\Microsoft.Managed.Core.targets
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\Microsoft.Win32.Primitives.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.AppContext.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Console.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Globalization.Calendars.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.IO.Compression.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.IO.Compression.ZipFile.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Net.Http.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Net.Sockets.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Security.Cryptography.Encoding.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Security.Cryptography.Primitives.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Threading.Tasks.Extensions.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.ValueTuple.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Xml.ReaderWriter.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Xml.XmlDocument.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Xml.XPath.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\System.Xml.XPath.XDocument.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\vbc.exe
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\vbc.exe.config
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\vbc.rsp
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\VBCSCompiler.exe
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\Antlr3.Runtime.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\Newtonsoft.Json.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\System.Web.Helpers.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\System.Web.Mvc.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\System.Web.Optimization.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\System.Web.Razor.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\System.Web.WebPages.Deployment.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\System.Web.WebPages.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\System.Web.WebPages.Razor.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\WebGrease.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\System.Web.Helpers.xml
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\System.Web.Mvc.xml
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\System.Web.Optimization.xml
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\System.Web.Razor.xml
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\System.Web.WebPages.xml
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\System.Web.WebPages.Deployment.xml
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\System.Web.WebPages.Razor.xml
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\Newtonsoft.Json.xml
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\Antlr3.Runtime.pdb
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\es\System.Web.Helpers.resources.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\es\System.Web.Mvc.resources.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\es\System.Web.Optimization.resources.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\es\System.Web.Razor.resources.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\es\System.Web.WebPages.resources.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\es\System.Web.WebPages.Deployment.resources.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\obj\Debug\Practica3.csproj.AssemblyReference.cache
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\obj\Debug\Practica3.csproj.CoreCompileInputs.cache
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\obj\Debug\Practica3.csproj.Up2Date
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\obj\Debug\Practica3.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\obj\Debug\Practica3.pdb
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\EntityFramework.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\EntityFramework.SqlServer.dll
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\EntityFramework.xml
-C:\Users\Edgardo Solano\Desktop\Programacion Avanzada\Practica3_PrograAvanzada\Practica3\Practica3\bin\EntityFramework.SqlServer.xml
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\Practica3.dll.config
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\Practica3.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\Practica3.pdb
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\csc.exe
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\csc.exe.config
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\csc.rsp
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\csi.exe
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\csi.exe.config
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\csi.rsp
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\System.AppContext.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\System.Collections.Immutable.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\System.Console.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\System.Globalization.Calendars.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\System.IO.Compression.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\System.IO.FileSystem.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\System.Net.Http.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\System.Net.Sockets.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\System.Reflection.Metadata.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\System.ValueTuple.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\System.Xml.XPath.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\vbc.exe
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\vbc.exe.config
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\vbc.rsp
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\VBCSCompiler.exe
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\roslyn\VBCSCompiler.exe.config
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\Antlr3.Runtime.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\EntityFramework.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\EntityFramework.SqlServer.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\Microsoft.Web.Infrastructure.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\Newtonsoft.Json.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\System.Web.Helpers.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\System.Web.Mvc.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\System.Web.Optimization.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\System.Web.Razor.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\System.Web.WebPages.Deployment.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\System.Web.WebPages.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\System.Web.WebPages.Razor.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\WebGrease.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\EntityFramework.xml
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\EntityFramework.SqlServer.xml
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\System.Web.Helpers.xml
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\System.Web.Mvc.xml
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\System.Web.Optimization.xml
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\System.Web.Razor.xml
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\System.Web.WebPages.xml
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\System.Web.WebPages.Deployment.xml
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\System.Web.WebPages.Razor.xml
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\Newtonsoft.Json.xml
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\Antlr3.Runtime.pdb
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\es\System.Web.Helpers.resources.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\es\System.Web.Mvc.resources.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\es\System.Web.Optimization.resources.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\es\System.Web.Razor.resources.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\es\System.Web.WebPages.resources.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\obj\Debug\Practica3.csproj.AssemblyReference.cache
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\obj\Debug\Practica3.csproj.CoreCompileInputs.cache
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\obj\Debug\Practica3.csproj.Up2Date
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\obj\Debug\Practica3.dll
+D:\Ufide\Programacion Avanzada\Semana 13\Practica3\Practica3\obj\Debug\Practica3.pdb
